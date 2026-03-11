@@ -1,4 +1,3 @@
-# Guia-prototipado
 # Guía para Seleccionar y Ejecutar Prototipos de Experiencia
 **Versión técnica y accesible**
 
